@@ -15,7 +15,7 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:contentDescription="Logo"
-        android:src="@drawable/Group3"
+        android:src="@drawable/groupe"
         tools:layout_editor_absoluteX="105dp"
         tools:layout_editor_absoluteY="299dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -20,7 +20,7 @@
         <ImageView
             android:layout_width="98dp"
             android:layout_height="110dp"
-            android:src="@drawable/Group3"/>
+            android:src="@drawable/groupe"/>
 
         <EditText
             android:layout_width="match_parent"
