@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         loginBnt.setOnClickListener {
             val username = usernameInput.text.toString()
             val password = passwordInput.text.toString()
-            //Log.i(tag:"Test ok", msg:"Username : $username and Password : $password")
+            //Log.i(tag:"Test ok", msg:"Username : $username and Password .: $password")
         }
     }
 }
